@@ -16,8 +16,8 @@ import  payment_img_2 from "../../../../public/assets/img/payment/get-paid.png" 
 
 
 const payment_content = {
-    title: <>You'll love our <br /> powerful payments.</>,
-    sub_title: <>We've got all your payments covered</>,
+    title: <>Il Registratore di cassa <br /> in cloud</>,
+    sub_title: <>Retail - Beauty - Ristorazione - Impianti</>,
     box_1: [
         {
             id: 1, 
@@ -25,7 +25,7 @@ const payment_content = {
             cls: "2 tpfadeLeft",
             delay: ".3s",
             title: "Scan & Go",
-            des: <>Transform your payment link into a QR code that customers can scan with their <br /> phone to pay.</>,
+            des: <>Accetta i pagamenti in mobilità <br /> da smartphone o tablet.</>,
             shapes: [
                 {
                     id: 1, 
@@ -60,8 +60,8 @@ const payment_content = {
             col: "md-6",
             cls: "3 tpfadeRight",
             delay: ".5s",
-            title: "Easily Send Requesrs vai e-mail or SMS",
-            des: <>... or copy-paste the link</>,
+            title: "Invia gli scontrini via email o SMS",
+            des: <>... o via whatsapp</>,
             shapes: [
                 {
                     id: 1, 
@@ -81,8 +81,8 @@ const payment_content = {
        
 
     ],
-    box_3_title: <>Online Billing & <br /> Invoicing Payments.</>,
-    box_3_des: <>Get paid faster with Online Invoicing <br /> and the Virtual Terminal.</>,
+    box_3_title: <>Genera le fatture<br />automaticamente.</>,
+    box_3_des: <>Non perdere tempo a fare le fatture <br /> scegli il nostro sistema.</>,
     box_3_btn: "Explore Invoicing Tools",
 
 }
