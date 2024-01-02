@@ -38,25 +38,25 @@ const service_content = {
         {
             id: 1,
             color: "",
-            title: "Online",
+            title: "Retail",
             img: service_img_1,
         },
         {
             id: 2,
             color: "2",
-            title: "Bank Transfers",
+            title: "Ristorazione",
             img: service_img_2,
         },
         {
             id: 3,
             color: "3",
-            title: "Keyed",
+            title: "Estetica",
             img: service_img_3,
         },
         {
             id: 4,
             color: "4",
-            title: "In-Person",
+            title: "Hair Stylist",
             img: service_img_4,
         }, 
     ],
@@ -121,7 +121,7 @@ const ServiceArea = () => {
                               </div>
                               <div className="tp-service-2__text">
                                  <h4 className="tp-service-2__title-sm"><Link href="/service-details">{item.title}</Link></h4>
-                                 <Link className="tp-service-2__link" href="/service-details">Explore
+                                 <Link className="tp-service-2__link" href="/service-details">Info
                                     <i className="far fa-arrow-right"></i>
                                  </Link>
                               </div>
