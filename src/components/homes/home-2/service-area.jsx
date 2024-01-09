@@ -11,13 +11,13 @@ import service_img_4 from "../../../../public/assets/img/service/sv-icon-2-4.png
 import bg_img from "../../../../public/assets/img/service/sv-bg-2-1.jpg" 
 
 const service_content = {
-    title: <>We provide the <br /> best service for you</>,
-    des: <>We've got all your payments covered</>,
+    title: <>Seervice <br /> Retail</>,
+    des: <>Personalizziamo il POS adattandolo alle tue specifiche </>,
 
     users_data: [
         {
             id: 1, 
-            users_count: <>3.5<i>m</i></>,
+            users_count: <>& # 10003<i>m</i></>,
             users_status: <>Active Users</>,
 
         },
