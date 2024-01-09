@@ -122,8 +122,8 @@ const payment_method = [
 
 
 const payment_method_info = { 
-    title: <>All major <br /> payment methods</>,
-    desctiption: <>We've got all your payments covered</>,
+    title: <>Tutti i sistemi<br /> di pagamento</>,
+    desctiption: <>Accetta le principali carte di pagamento e fintech</>,
 
 }
 const {title, desctiption}  = payment_method_info
