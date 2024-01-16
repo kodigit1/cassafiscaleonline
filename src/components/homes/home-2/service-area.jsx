@@ -61,20 +61,20 @@ const service_content = {
         }, 
     ],
 
-    free_tools_title: "More free tools than you can handle",
+    free_tools_title: "Tante Opzioni da installare per facilitare il tuo lavoro quotidiano",
     free_tools: [
-        <>Invoicing</>,
-        <>Online Checkout</>,
-        <>Point-of-Sale</>,
-        <>Online Food Ordering</>,
-        <>ICard Vault</>,
-        <>Customer Portal</>,
-        <>Inventory</>,
-        <>Virtual Terminal</>,
-        <>Recurring Plans</>,
-        <>Payment Links</>,
-        <>SMS Payments</>,
-        <>QR Codes</>,
+        <>Fatture Elettroniche</>,
+        <>Agenda Digitale</>,
+        <>Servizio Newsletter</>,
+        <>Gestione Carte Fedeltà</>,
+        <>Self Order da tavolo</>,
+        <>Ecommerce</>,
+        <>Scontrino Virtuale</>,
+        <>Gestione Abbonamenti</>,
+        <>Collettore Magazzino</>,
+        <>Collettore Marketplace</>,
+        <>Ordini con QR code</>,
+        <>Ordini con Whatsapp</>,
     ]
 
 }
