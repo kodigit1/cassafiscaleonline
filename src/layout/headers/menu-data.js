@@ -41,34 +41,6 @@ const menu_data = [
     id: 3,
     mega_menu: false,
     has_dropdown: false,
-    title: "Projects",
-    link: "/project",
-    active: "",
-    sub_menus: [
-      { link: "/project", title: "Project" },
-      { link: "/project-details", title: "Project Details" }, 
-    ],
-  },
-
-  {
-    id: 4,
-    mega_menu: false,
-    has_dropdown: false,
-    title: "Blog",
-    link: "/blog",
-    active: "",
-    sub_menus: [
-      { link: "/blog", title: "Blog" },
-      { link: "/blog-list", title: "Blog List" },
-      { link: "/blog-details", title: "Blog Details" },
-      { link: "/blog-details-2", title: "Blog Details 02" },
-    ],
-  },
-  
-  {
-    id: 5,
-    mega_menu: false,
-    has_dropdown: false,
     title: "Contact",
     link: "/contact",
     active: "",
