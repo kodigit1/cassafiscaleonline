@@ -20,13 +20,13 @@ import hero_shape_5 from "../../../../public/assets/img/hero/hero-shape-2-2.png"
 const hero_content = {
   bg_img: "/assets/img/hero/hero-bg-2.png",
   scroll_btn: "Scroll Down",
-  title: <><i><i className="child-1">The next</i> </i>{" "}
-  <i><i className="child-1">generation</i> </i>{" "}
-  <i><i className="child-1">payment</i> </i>{" "}
-  <i><i className="child-1">ways.</i></i>
+  title: <><i><i className="child-1">La tua</i> </i>{" "}
+  <i><i className="child-1">Cassa</i> </i>{" "}
+  <i><i className="child-1">Ficsale</i> </i>{" "}
+  <i><i className="child-1">in cloud</i></i>
   </>,
   btn_text: "Get Started For Free",
-  sub_title: <>Over<span>5Ok+ Client</span> all over the world</>,
+  sub_title: <>Molti<span>5Ok+ Clienti</span> hanno scelto la libertà</>,
   
 }
 const {
