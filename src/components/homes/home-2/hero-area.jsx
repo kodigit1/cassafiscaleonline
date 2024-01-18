@@ -22,11 +22,11 @@ const hero_content = {
   scroll_btn: "Scroll Down",
   title: <><i><i className="child-1">La tua</i> </i>{" "}
   <i><i className="child-1">Cassa</i> </i>{" "}
-  <i><i className="child-1">Ficsale</i> </i>{" "}
+  <i><i className="child-1">Fiscale</i> </i>{" "}
   <i><i className="child-1">in cloud</i></i>
   </>,
-  btn_text: "Get Started For Free",
-  sub_title: <>Molti<span>5Ok+ Clienti</span> hanno scelto la libertà</>,
+  btn_text: "Richiedi una demo gratuita",
+  sub_title: <>Molti<span> Clienti</span> hanno scelto la libertà</>,
   
 }
 const {
