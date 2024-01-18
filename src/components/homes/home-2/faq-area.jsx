@@ -7,7 +7,7 @@ import img from "../../../../public/assets/img/faq/faq-1.png"
 
 const faq_content = {
     sub_title: "Support",
-    title: <>Frequently <br /> Asked Questions</>,
+    title: <>I vantaggi<br /> di una cassa in cloud</>,
     description: <>Sed ut perspiciatis unde omnis iste natus error <br /> sit voluptatem accusantium.!</>,
     btn_text: "Get in Touch",
 }

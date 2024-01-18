@@ -37,28 +37,28 @@ const account_content ={
             img: account_img_5
         },
     ],
-    sub_title: "Open An Account",
-    title: "Let’s get started",
+    sub_title: "Regitratore di cassa in cloud",
+    title: "I principali Vantaggi",
     account_step: [
         {
             id: 1, 
             number: "01",
-            info: <>Sign up in a few minutes</>,
+            info: <>Accesso da qualsiasi luogo</>,
         },
         {
             id: 2, 
             number: "02",
-            info: <>Let us verify your identity</>,
+            info: <>Gestione semplificata</>,
         },
         {
             id: 3, 
             number: "03",
-            info: <>Your account is open; you can send <br /> your first payment</>,
+            info: <>YRisparmio di spazio <br /> e costi</>,
         },
 
     ],
-    btn_text: "Open An Account in Minutes",
-    info: "Try it for 30 days. For free. No obligations.",
+    btn_text: "Richiedi una demo ora !",
+    info: "1 settimana di utilizzo gratuito",
 }
 const {account_shape, sub_title, title, account_step, btn_text, info}  = account_content
 
