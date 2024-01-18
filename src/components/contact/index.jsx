@@ -17,7 +17,7 @@ const Contact = () => {
           <main>
             <Breadcrumb title_top="Get In" title_bottom="Get In" />
             <HeroBanner bg_img="/assets/img/contact/contact-banner.jpg" />
-            <OfficeLocation />
+            
             <ContactFormArea />
             <ContactInner />
             <CtaArea />
