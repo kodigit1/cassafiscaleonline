@@ -19,7 +19,6 @@ const About = () => {
       <HeroBanner title="About" subtitle="Softec" bg_img="/assets/img/breadcrumb/breadcrumb-2.jpg" />
       <Brand />
       <AboutArea />
-      <JourneyArea />
       <JobArea />
       <CtaArea />
       <FooterFive style_contact={true} style_team={true} />
