@@ -14,8 +14,8 @@ import brand_img_8 from "../../../public/assets/img/brand/brand-inner-8.png"
 import brand_img_9 from "../../../public/assets/img/brand/brand-inner-9.png"
 
 const brand_content = {
-    titel: "Trusted by Thousands Business",
-    description: <>More than 100,000+ teams are using Softuch</>,
+    titel: "Integra la cassa con i servizi che pù ti interessano",
+    description: <>Genera Coupon, organizza punti Fedeltà, inserisci una agenda appuntamenti, etc..</>,
     
     brand_img: [
         {img: brand_img_1, delay: ".2s"},
