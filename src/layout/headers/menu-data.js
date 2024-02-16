@@ -20,7 +20,7 @@ const menu_data = [
     has_dropdown: false,
     title: "Pages",
     link: "/about",
-    active: "",
+    active: "false",
     sub_menus: [
       { link: "/about", title: "About" },
       { link: "/service", title: "Service" },
