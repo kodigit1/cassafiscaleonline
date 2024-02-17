@@ -18,7 +18,7 @@ const menu_data = [
     id: 2,
     mega_menu: false,
     has_dropdown: false,
-    title: "Pages",
+    title: "Servizi",
     link: "/about",
     active: "false",
     sub_menus: [
@@ -41,7 +41,7 @@ const menu_data = [
     id: 3,
     mega_menu: false,
     has_dropdown: false,
-    title: "Contact",
+    title: "Contatti",
     link: "/contact",
     active: "",
   },
