@@ -16,7 +16,7 @@ const slider_data  = [
     {
         id: 1,
         img: slider_img_1,
-        name: "Thea",
+        name: "Theo",
         job: "CEO",
         info: <>"Posso inviare gli scontrini via email salvaguardando l'ambiente"</>,
 
@@ -24,7 +24,7 @@ const slider_data  = [
     {
         id: 2,
         img: slider_img_2,
-        name: "Enrico",
+        name: "Enrica",
         job: "Founder & Leader",
         info: <>"Gestisco dalla cassa anche gli appuntamenti con l'Agenda Elettronica"</>,
 
@@ -32,7 +32,7 @@ const slider_data  = [
     {
         id: 3,
         img: slider_img_3,
-        name: "Paola",
+        name: "Paolo",
         job: "Founder & Leader",
         info: <>"Posso gestire i punti fedeltà sia online che nel punto vendita"</>,
 
@@ -40,7 +40,7 @@ const slider_data  = [
     {
         id: 4,
         img: slider_img_4,
-        name: "Lina",
+        name: "Lino",
         job: "Founder & Leader",
         info: <>"Posso inviare sconti e promozioni via email a tutti i miei clienti"</>,
 
