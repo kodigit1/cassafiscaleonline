@@ -16,33 +16,33 @@ const slider_data  = [
     {
         id: 1,
         img: slider_img_1,
-        name: "Lana Rey",
-        job: "Founder & Leader",
-        info: <>"Is it possible to Love your credit card processor? with Softec, yes!"</>,
+        name: "Thea",
+        job: "CEO",
+        info: <>"Posso inviare gli scontrini via email salvaguardando l'ambiente"</>,
 
     },
     {
         id: 2,
         img: slider_img_2,
-        name: "J. McGhee",
+        name: "Enrico",
         job: "Founder & Leader",
-        info: <>"Is it possible to Love your credit card processor? with Softec, yes!"</>,
+        info: <>"Gestisco dalla cassa anche gli appuntamenti con l'Agenda Elettronica"</>,
 
     },
     {
         id: 3,
         img: slider_img_3,
-        name: "Michael H.",
+        name: "Paola",
         job: "Founder & Leader",
-        info: <>"Is it possible to Love your credit card processor? with Softec, yes!"</>,
+        info: <>"Posso gestire i punti fedeltà sia online che nel punto vendita"</>,
 
     },
     {
         id: 4,
         img: slider_img_4,
-        name: "Lana Rey",
+        name: "Lina",
         job: "Founder & Leader",
-        info: <>"Is it possible to Love your credit card processor? with Softec, yes!"</>,
+        info: <>"Posso inviare sconti e promozioni via email a tutti i miei clienti"</>,
 
     }, 
 ]
