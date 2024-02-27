@@ -17,20 +17,20 @@ const service_content = {
     users_data: [
         {
             id: 1, 
-            users_count: <>& # 10003<i>m</i></>,
-            users_status: <>Active Users</>,
+            users_count: <>25<i>anni</i></>,
+            users_status: <>Attività</>,
 
         },
         {
             id: 2, 
             users_count: <>240<i>+</i></>,
-            users_status: <>Trusted Companies</>,
+            users_status: <>Optional</>,
 
         },
         {
             id: 3, 
-            users_count: <>78<i>k</i></>,
-            users_status: <>Customer care</>,
+            users_count: <>3<i>k</i></>,
+            users_status: <>Happy Customer</>,
 
         },
     ],
