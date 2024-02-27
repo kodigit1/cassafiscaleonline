@@ -3,7 +3,7 @@ const menu_data = [
     id: 1,
     mega_menu: false,
     has_dropdown: false,
-    title: "Home",
+    title: "La tua Cassa Digitale",
     link: "/",
     active: "active",
     sub_menus: [
