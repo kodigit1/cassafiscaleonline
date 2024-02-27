@@ -12,8 +12,8 @@ import google_ply from "../../../public/assets/img/footer/dwnld-3.png";
 
 
 const footer_content = {
-    address: <>1811 Silverside Rd, Wilmington,<br />DE 19810, USA</>,
-    phone: "+806(000)8899",
+    address: <>,<br /></>,
+    phone: "+39 3406505294",
     email: "info@kodigit.agency",
     download: "Download App", 
     footer_lisks : [
