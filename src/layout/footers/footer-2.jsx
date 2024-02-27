@@ -13,7 +13,7 @@ import google_ply from "../../../public/assets/img/footer/dwnld-3.png";
 
 const footer_content = {
     address: <><br /></>,
-    phone: "+39 3406505294",
+    phone: "+393406505294",
     email: "info@kodigit.agency",
     download: "Download App", 
     footer_lisks : [
