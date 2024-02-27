@@ -53,7 +53,7 @@ const account_content ={
         {
             id: 3, 
             number: "03",
-            info: <>YRisparmio di spazio <br /> e costi</>,
+            info: <>Risparmio di spazio <br /> e costi</>,
         },
 
     ],
