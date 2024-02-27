@@ -8,8 +8,8 @@ import img from "../../../../public/assets/img/faq/faq-1.png"
 const faq_content = {
     sub_title: "Support",
     title: <>I vantaggi<br /> di una cassa in cloud</>,
-    description: <>Sed ut perspiciatis unde omnis iste natus error <br /> sit voluptatem accusantium.!</>,
-    btn_text: "Get in Touch",
+    description: <>Risparmia tempo e denaro  <br /> con più servizi per i clienti!</>,
+    btn_text: "Contattaci ora!",
 }
 const {sub_title, title, description, btn_text }  = faq_content
 
