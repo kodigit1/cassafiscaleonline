@@ -14,37 +14,6 @@ const menu_data = [
       { link: "/home-5", title: "Saas" },
     ],
   },
-  {
-    id: 2,
-    mega_menu: false,
-    has_dropdown: false,
-    title: "Servizi",
-    link: "/about",
-    active: "false",
-    sub_menus: [
-      { link: "/about", title: "About" },
-      { link: "/service", title: "Service" },
-      { link: "/service-details", title: "Service Details" },
-      { link: "/team", title: "Team" },
-      { link: "/team-details", title: "Team Details" },
-      { link: "/career", title: "Career" },
-      { link: "/career-details", title: "Career Details" },
-      { link: "/integrations", title: "Integrations" },
-      { link: "/price", title: "Price" },
-      { link: "/register", title: "Register" },
-      { link: "/sign-in", title: "Signin" },
-      { link: "/404", title: "404" }, 
-    ],
-  },
-  
-  {
-    id: 3,
-    mega_menu: false,
-    has_dropdown: false,
-    title: "Contatti",
-    link: "/contact",
-    active: "",
-  },
   
 
 ];
