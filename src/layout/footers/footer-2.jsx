@@ -12,7 +12,7 @@ import google_ply from "../../../public/assets/img/footer/dwnld-3.png";
 
 
 const footer_content = {
-    address: <>,<br /></>,
+    address: <><br /></>,
     phone: "+39 3406505294",
     email: "info@kodigit.agency",
     download: "", 
@@ -33,15 +33,15 @@ const footer_content = {
         {
             id: 2,
             cls: "footer-col-2-3", 
-            title: "Other Pages",
+            title: "",
             delay: ".7s",
             links: [
-                {name: "About", link: "/about"},
-                {name: "Services", link: "/service"},
-                {name: "How It Works", link: "#"},
-                {name: "Pricing Plan", link: "/price"},
-                {name: "Blog", link: "/blog"},
-                {name: "Contact", link: "/contact"},
+                {name: "", link: "#"},
+                {name: "", link: "#"},
+                {name: "", link: "#"},
+                {name: "", link: "#"},
+                {name: "", link: "#"},
+                {name: "", link: "#"},
             ]
         },
 
@@ -57,11 +57,7 @@ const footer_content = {
           target: "_blank",
           icon: "fab fa-twitter", 
         },
-        {
-          link: "http://www.vimeo.com",
-          target: "_blank",
-          icon: "fab fa-vimeo-v", 
-        }, 
+    
         {
           link: "http://www.instagram.com",
           target: "_blank",
@@ -166,26 +162,7 @@ const FooterTwo = () => {
                   <div
                      className="tp-copyright__lang-box  d-flex align-items-center justify-content-md-end justify-content-sm-end justify-content-start">
                      <div className="tp-copyright__lang tp-copyright__lang-2">
-                        <ul>
-                           <li>
-                              <button id="tp-copyright__lang-toggle" onClick={() => oppenLan()} >
-                                 <span>English (US)<i className="fal fa-angle-down"></i></span>
-                              </button>
-                              {isOppen &&
-                              <ul className={`tp-copyright__lang-submenu ${isOppen && "open"}`}>
-                                 <li>
-                                    <Link href="#">Arabic</Link>
-                                 </li>
-                                 <li>
-                                    <Link href="#">Spanish</Link>
-                                 </li>
-                                 <li>
-                                    <Link href="#">Mandarin</Link>
-                                 </li>
-                              </ul>
-                              }
-                           </li>
-                        </ul>
+                        
                      </div>
                   </div>
                </div>
