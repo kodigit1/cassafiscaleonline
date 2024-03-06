@@ -119,23 +119,7 @@ const FooterTwo = () => {
                </div>
                )} 
 
-               <div className="col-xl-3 col-lg-3 col-md-6 pb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">
-                  <div className="tp-footer__widget footer-widget-2 footer-col-2-4">
-                     <h4 className="tp-footer__widget-title">{download}</h4>
-                     <div className="tp-footer__download-box d-flex align-items-center">
-                        <div className="tp-footer__qrcode mr-15">
-                        <Link href="#"> <Image src={qr_code} alt="them-pure"/></Link>
-                        </div>
-                        <div className="tp-footer__app">
-                           <Link href="#"><Image className="mb-15" src={i_phone} alt="them-pure"/></Link>
-                        <Link href="#"><Image src={google_ply} alt="them-pure"/></Link>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
+               
       <div className="tp-copyright__area pt-20 pb-20">
          <div className="container">
             <div className="row align-items-center">
