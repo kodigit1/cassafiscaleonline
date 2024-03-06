@@ -15,19 +15,19 @@ const footer_content = {
     address: <>,<br /></>,
     phone: "+39 3406505294",
     email: "info@kodigit.agency",
-    download: "Download App", 
+    download: "", 
     footer_lisks : [
         {
             id: 1,
             cls: "footer-col-2-2", 
-            title: "Solutions",
+            title: "",
             delay: ".5s",
             links: [
-                {name: "Payments", link: "#"},
-                {name: "Advances", link: "#"},
-                {name: "Online Checkout", link: "#"},
-                {name: "Dashboard", link: "#"},
-                {name: "Get Started", link: "#"}, 
+                {name: "", link: "#"},
+                {name: "", link: "#"},
+                {name: "", link: "#"},
+                {name: "", link: "#"},
+                {name: "", link: "#"}, 
             ]
         },
         {
