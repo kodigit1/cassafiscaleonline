@@ -92,7 +92,7 @@ const setting = {
 
 const testimonial_content = {
     bg_img: "/assets/img/testimonial/testi-bg-2-1.png",
-    title: <>What people <br /> are saying about us</>
+    title: <>Cosa pensano i nostri clienti <br /> del nostro servizio</>
 }
 const {bg_img, title}  = testimonial_content
 const TestimonialArea = () => {
