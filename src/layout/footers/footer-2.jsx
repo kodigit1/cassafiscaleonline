@@ -13,11 +13,11 @@ import footer_logo from "../../../public/assets/img/logo/logo-white.png";
 
 
 const footer_content = {
-   sub_title: "SUBSCRIBE TO OUR NEWSLETTER",
-   policy_text: <>By subscribing, you accepted the our <a href="#">Policy</a></>,
-   phone: "(+806)0008899",
-   email: "contact@info.com",
-   location: <>1811 Silverside Rd, <br />Wilmington, DE 19810, USA</>,
+   sub_title: "Sottoscrivi le News",
+   policy_text: <>Sottoscrivendo tu accetti la nostra <a href="#">Policy</a></>,
+   phone: "+393406505294",
+   email: "info@kodigit.agency",
+   location: <>Richiedi un<br />preventivo gratuito </>,
 
    footer_lisks: [
    
@@ -78,7 +78,7 @@ const FooterTwo = () => {
                         </div>
                         <div className="col-xl-3 col-lg-3 col-md-6 pb-45 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
                            <div className="tp-footer__widget footer-widget-4 footer-col-4-3">
-                              <h4 className="tp-footer__widget-title">Contact Info</h4>
+                              <h4 className="tp-footer__widget-title">Contatti</h4>
                               <div className="tp-contact-info-box">
                                  <ul>
                                     <li>
