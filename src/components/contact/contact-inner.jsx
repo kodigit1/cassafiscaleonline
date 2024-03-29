@@ -16,21 +16,16 @@ const inner_content = {
     {
       id: 1,
       icon: icon_1,
-      title: "contact@softuch.com",
-      link: "mailto:contact@softuch.com",
+      title: "info@kodigit.agency",
+      link: "mailto:info@kodigit.agency",
     },
     {
       id: 2,
       icon: icon_2,
-      title: "+1-202-555-0144",
-      link: "tel:+1-202-555-0144",
+      title: "+393406505294",
+      link: "tel:+393406505294",
     },
-    {
-      id: 3,
-      icon: icon_3,
-      title: "35Park Avenue, Uk",
-      link: "https://www.google.com.bd/maps/@23.7806365,90.4193257,12z",
-    },
+    
   ],
 };
 const { title, description, contact_data } = inner_content;
