@@ -14,7 +14,18 @@ const menu_data = [
       { link: "/home-5", title: "Saas" },
     ],
   },
-  
+  {
+    id: 2,
+    mega_menu: false,
+    has_dropdown: false,
+    title: "Contatti",
+    link: "/contact",
+    active: "",
+    sub_menus: [
+      { link: "/project", title: "Project" },
+      { link: "/project-details", title: "Project Details" }, 
+    ],
+  },
 
 ];
 export default menu_data;
