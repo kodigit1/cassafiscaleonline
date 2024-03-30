@@ -9,8 +9,8 @@ import icon_3 from "../../../public/assets/img/contact/contact-icon-sm-3.png";
 
 
 const inner_content = {
-  title: "Book a Demo!",
-  description: <>We will contact again after receive your request in 24h</>,
+  title: "Richiedi una Demo!",
+  description: <>Contattaci per avere informazioni tecniche o commerciali</>,
 
   contact_data: [
     {
