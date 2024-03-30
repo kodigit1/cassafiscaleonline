@@ -1,8 +1,8 @@
-import FooterFive from "@/src/layout/footers/footer-5";
+import FooterTwo from "@/src/layout/footers/footer-2";
 import HeaderSix from "@/src/layout/headers/header-6";
 import React from "react";
 import Breadcrumb from "../../common/breadcrumbs/breadcrumb";
-import ContactFormArea from "./contact-form-area";
+
 import ContactInner from "./contact-inner";
 import CtaArea from "./cta-area";
 import HeroBanner from "../../common/hero-banner";
@@ -18,11 +18,11 @@ const Contact = () => {
             <Breadcrumb title_top="Get In" title_bottom="Get In" />
             <HeroBanner bg_img="/assets/img/contact/contact-banner.jpg" />
             
-            <ContactFormArea />
+            
             <ContactInner />
             <CtaArea />
           </main>
-          <FooterFive style_contact={true} style_team={true} />
+          <FooterTwo style_contact={true} style_team={true} />
         </div>
       </div>
     </>
