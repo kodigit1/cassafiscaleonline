@@ -83,7 +83,7 @@ const payment_content = {
     ],
     box_3_title: <>Genera le fatture<br />automaticamente.</>,
     box_3_des: <>Non perdere tempo a fare le fatture <br /> scegli il nostro sistema.</>,
-    box_3_btn: "Contatti",
+    box_3_btn: "Contattaci",
 
 }
 const {title, sub_title, box_1, box_3_title, box_3_des, box_3_btn}  = payment_content
