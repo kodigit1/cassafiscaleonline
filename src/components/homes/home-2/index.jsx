@@ -11,7 +11,6 @@ import ServiceArea from "./service-area";
 import TestimonialArea from "./testimonial-area";
 import React from 'react'
 
-
 const HomeTwo = () => {
   return (
     <>
