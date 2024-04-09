@@ -9,7 +9,7 @@ import PaymentArea from "./payment-area";
 import PaymentMethodArea from "./payment-method-area";
 import ServiceArea from "./service-area";
 import TestimonialArea from "./testimonial-area";
-import PureComponent from "./PureComponent.jsx";
+import PureComponent from "./PureComponent";
 
 const HomeTwo = () => {
   return (
