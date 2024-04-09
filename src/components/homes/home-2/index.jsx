@@ -10,30 +10,7 @@ import PaymentMethodArea from "./payment-method-area";
 import ServiceArea from "./service-area";
 import TestimonialArea from "./testimonial-area";
 import React from 'react'
-import Iubenda from 'react-iubenda-policy'
- 
-const Policy = () => {
-  const myPolicy = 56039535 // your policy id
-  return (
-    <div>
- 
-      {/* Renders the Privacy Policy link with the text 'Privacy Policy' */}
-      <Iubenda id={myPolicy}/>
- 
-      <Iubenda id={myPolicy} type='terms-and-conditions' styling='nostyle'>
-        Terms and conditions
-      </Iubenda>
- 
-      <Iubenda id={myPolicy} type='privacy' styling='white'>
-        Privacy Policy
-      </Iubenda>
- 
-      <Iubenda id={myPolicy} type='cookie' styling='black'>
-        Cookie Policy
-      </Iubenda>
-    </div>
-  )
-}
+
 
 const HomeTwo = () => {
   return (
