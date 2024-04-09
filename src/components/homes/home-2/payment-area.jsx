@@ -83,7 +83,7 @@ const payment_content = {
     ],
     box_3_title: <>Genera le fatture<br />automaticamente.</>,
     box_3_des: <>Non perdere tempo a fare le fatture <br /> scegli il nostro sistema.</>,
-    box_3_btn: "Explore Invoicing Tools",
+    box_3_btn: "Contattaci",
 
 }
 const {title, sub_title, box_1, box_3_title, box_3_des, box_3_btn}  = payment_content
@@ -139,7 +139,7 @@ const PaymentArea = () => {
                                  <div className="tp-payment__content tp-payment__content-space">
                                     <h3 className="tp-payment__title">{box_3_title}</h3>
                                     <p>{box_3_des}</p>
-                                    <Link href="/service-details">{box_3_btn}<i className="far fa-arrow-right"></i></Link>
+                                    <Link href="/contact">{box_3_btn}<i className="far fa-arrow-right"></i></Link>
                                  </div>
                               </div>
                               <div className="col-md-6">
