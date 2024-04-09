@@ -6,7 +6,9 @@ import PhoneThree from '@/src/svg/phone-3';
 import RightArrow from '@/src/svg/right-arrow';
 import Link from 'next/link';
 import Image from 'next/image';
+import Iubenda from 'react-iubenda-policy'
 import React from 'react';
+{ PureComponent } 
 
 import footer_shape from "../../../public/assets/img/footer/footer-bottom-shape-4-1.png";
 import footer_logo from "../../../public/assets/img/logo/logo-white.png";
@@ -116,5 +118,26 @@ const FooterTwo = () => {
       </>
    );
 };
+const Policy = () => {
+  const myPolicy = 56039535 // your policy id
+  return (
+    <div>
 
+      {/* Renders the Privacy Policy link with the text 'Privacy Policy' */}
+      <Iubenda id={myPolicy}/>
+
+      <Iubenda id={myPolicy} type='terms-and-conditions' styling='nostyle'>
+        Terms and conditions
+      </Iubenda>
+
+      <Iubenda id={myPolicy} type='privacy' styling='white'>
+        Privacy Policy
+      </Iubenda>
+
+      <Iubenda id={myPolicy} type='cookie' styling='black'>
+        Cookie Policy
+      </Iubenda>
+    </div>
+  )
+}
 export default FooterTwo;
