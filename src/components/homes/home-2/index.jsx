@@ -9,7 +9,6 @@ import PaymentArea from "./payment-area";
 import PaymentMethodArea from "./payment-method-area";
 import ServiceArea from "./service-area";
 import TestimonialArea from "./testimonial-area";
-import PureComponent from "./PureComponent";
 
 const HomeTwo = () => {
   return (
@@ -18,7 +17,7 @@ const HomeTwo = () => {
       <HeaderTwo />
       <div id="smooth-wrapper">
       <div id="smooth-content">
-      <main className="fix">
+      <main className="fix"> 
       <HeroArea />
       <PaymentArea />
       <PaymentMethodArea />
@@ -29,7 +28,6 @@ const HomeTwo = () => {
       <CtaArea /> 
       </main>
       <FooterTwo />
-      <PureComponent />
       </div>
       </div>
 
