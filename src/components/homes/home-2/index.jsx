@@ -18,8 +18,7 @@ const HomeTwo = () => {
       <HeaderTwo />
       <div id="smooth-wrapper">
       <div id="smooth-content">
-      <main className="fix"> 
-        <PureComponent />
+      <main className="fix">
       <HeroArea />
       <PaymentArea />
       <PaymentMethodArea />
@@ -30,6 +29,7 @@ const HomeTwo = () => {
       <CtaArea /> 
       </main>
       <FooterTwo />
+      <PureComponent />
       </div>
       </div>
 
