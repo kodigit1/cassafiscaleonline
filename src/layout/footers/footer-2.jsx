@@ -118,26 +118,7 @@ const FooterTwo = () => {
       </>
    );
 };
-const Policy = () => {
-  const myPolicy = 56039535 // your policy id
-  return (
-    <div>
 
-      {/* Renders the Privacy Policy link with the text 'Privacy Policy' */}
-      <Iubenda id={myPolicy}/>
-
-      <Iubenda id={myPolicy} type='terms-and-conditions' styling='nostyle'>
-        Terms and conditions
-      </Iubenda>
-
-      <Iubenda id={myPolicy} type='privacy' styling='white'>
-        Privacy Policy
-      </Iubenda>
-
-      <Iubenda id={myPolicy} type='cookie' styling='black'>
-        Cookie Policy
-      </Iubenda>
-    </div>
   )
 }
 export default FooterTwo;
